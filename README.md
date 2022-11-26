@@ -15,9 +15,11 @@ Redeems on all the accounts under a second   - Depends if you have paid proxies
 
 
 **How does this even work?**
+
 We have bots in every streamer discord server. And once a promocode is detected to be sent, 
 it will be sent to the api. And then you recive the promocode
 
 **This is not working for me or i need help**
+
 If you need help i will gladly help you thru the proccess of installing and setting this up.
 Add me on discord xp#0765
