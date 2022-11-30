@@ -22,4 +22,4 @@ it will be sent to the api. And then you recive the promocode
 **This is not working for me or i need help**
 
 If you need help i will gladly help you thru the proccess of installing and setting this up.
-Add me on discord xp#0765
+Add me on discord xp#1659
